@@ -2,8 +2,6 @@
 
 A voice assistant for iOS that answers in a layer of fog instead of taking over the screen. The page stays visible behind the fog, and the assistant is a ring of dots that turns into a different flower while it listens, searches and checks.
 
-![Bottom fog, full fog and the playlist flow](docs/preview.png)
-
 Built in SwiftUI. The voice is simulated, and the songs and artists are made up.
 
 ## Three flows
